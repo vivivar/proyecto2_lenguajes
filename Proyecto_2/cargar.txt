@@ -1,0 +1,2 @@
+Coronado,Coronado frente a la terminal de bus,San Jose,9.1123553,-76.98546
+San Isidro,San Isidro frente al Walmart,Heredia,10.000512,-50.4333001
